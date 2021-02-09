@@ -5,8 +5,8 @@ package oapi
 import (
 	"context"
 	"fmt"
-	. "github.com/Cyberax/go-dd-service-base/utils"
-	"github.com/Cyberax/go-dd-service-base/visibility"
+	. "github.com/cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/visibility"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/ext"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
 	"net/http"

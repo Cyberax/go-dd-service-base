@@ -3,7 +3,7 @@ package visibility
 import (
 	"context"
 	"github.com/DataDog/datadog-go/statsd"
-	. "github.com/Cyberax/go-dd-service-base/utils"
+	. "github.com/cyberax/go-dd-service-base/utils"
 	"github.com/aws/aws-sdk-go-v2/service/cloudwatch"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
 	"strings"

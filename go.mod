@@ -1,4 +1,4 @@
-module github.com/Cyberax/go-dd-service-base
+module github.com/cyberax/go-dd-service-base
 
 go 1.13
 

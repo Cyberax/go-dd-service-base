@@ -3,7 +3,7 @@ package visibility
 import (
 	"context"
 	"fmt"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/twitchtv/twirp"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/ext"
 	"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"

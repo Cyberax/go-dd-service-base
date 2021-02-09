@@ -1,7 +1,7 @@
 package oapi
 
 import (
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/labstack/gommon/log"
 	"github.com/stretchr/testify/assert"
 	"testing"

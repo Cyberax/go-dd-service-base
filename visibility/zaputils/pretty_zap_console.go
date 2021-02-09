@@ -3,8 +3,8 @@ package zaputils
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Cyberax/go-dd-service-base/utils"
-	"github.com/Cyberax/go-dd-service-base/visibility"
+	"github.com/cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/visibility"
 	"go.uber.org/zap/buffer"
 	"go.uber.org/zap/zapcore"
 	"strings"

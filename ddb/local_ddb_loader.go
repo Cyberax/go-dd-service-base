@@ -2,7 +2,7 @@ package ddb
 
 import (
 	"bufio"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/aws/defaults"
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb"

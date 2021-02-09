@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 	"strings"

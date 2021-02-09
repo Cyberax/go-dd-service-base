@@ -2,7 +2,7 @@ package visibility
 
 import (
 	"context"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"time"
 )
 

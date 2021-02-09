@@ -7,7 +7,7 @@ package tracedaws
 
 import (
 	"context"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
 	"testing"
 

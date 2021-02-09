@@ -2,7 +2,7 @@ package zaputils
 
 import (
 	"bufio"
-	"github.com/Cyberax/go-dd-service-base/visibility"
+	"github.com/cyberax/go-dd-service-base/visibility"
 	"github.com/kami-zh/go-capturer"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"

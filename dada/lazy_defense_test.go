@@ -3,7 +3,7 @@ package dada
 import (
 	"context"
 	"fmt"
-	"github.com/Cyberax/go-dd-service-base/utils"
+	"github.com/cyberax/go-dd-service-base/utils"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
